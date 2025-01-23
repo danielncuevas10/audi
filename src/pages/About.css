@@ -1,0 +1,30 @@
+.landing-audi {
+    position: relative; 
+  }
+
+.landing-audi img {
+    width: 100%;
+    height: auto;
+}
+
+.landing-audi h1 {
+    position: absolute; 
+    top: 20%;
+    left: 15%; 
+    color: white; 
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 2.5rem;
+    letter-spacing: .5rem;
+  }
+
+  @media only screen and (max-width: 432px) {
+    .landing-audi {
+      width: 24rem;
+      height: auto;
+    }
+    .landing-audi h1 {
+        font-size: 1rem;
+        margin-left: -2rem;
+    }
+}

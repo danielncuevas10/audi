@@ -1,0 +1,64 @@
+nav {
+    background-color: rgba(255, 255, 255, 0.632); 
+    width: 100%; /* Makes the nav bar span the entire width of the page */
+    padding: 20px 0;
+    box-sizing: border-box;
+}
+
+nav a {
+    text-decoration: none; 
+    color: grey;
+    margin-left: 20px;
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+
+nav a:hover {
+    color: rgb(10, 10, 10);
+    transition: color 0.4s ease;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 1px;
+} 
+
+ul li{
+    margin-left: 15px;
+}
+
+ul #Search {
+    margin-left: 100px;
+    color: grey;
+    cursor: pointer;
+}
+
+ul #Search:hover {
+    color: rgb(10, 10, 10);
+    transition: color 0.4s ease;
+}
+
+.logo-audi {
+    width: 3rem;
+    height: auto;
+}
+
+@media only screen and (max-width: 432px) {
+    nav {
+        width: 100vh; /* Makes the nav bar span the entire width of the page */
+        padding: 5px 0;
+    }
+    .logo-audi {
+        width: auto;
+        height: 1rem;
+    }
+    ul {
+        margin: 6px;
+        margin-left: -25px;
+    }
+    ul li{
+        font-size: .8rem;
+    }
+
+  }
