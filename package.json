@@ -2,7 +2,7 @@
   "name": "audi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielncuevas10.github.io/audi",
+  "homepage": "https://danielncuevas10.github.io/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",

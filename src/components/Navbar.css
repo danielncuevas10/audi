@@ -1,20 +1,23 @@
 nav {
-    background-color: rgba(255, 255, 255, 0.632); 
+    background-color: rgba(255, 255, 255, 0.467); 
     width: 100%; /* Makes the nav bar span the entire width of the page */
     padding: 20px 0;
     box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
 }
 
 nav a {
     text-decoration: none; 
-    color: grey;
+    color: rgb(0, 0, 0);
     margin-left: 20px;
     font-family: 'Roboto';
     font-weight: 400;
 }
 
 nav a:hover {
-    color: rgb(10, 10, 10);
+    color: rgb(165, 165, 165);
     transition: color 0.4s ease;
 }
 
@@ -46,7 +49,7 @@ ul #Search:hover {
 
 @media only screen and (max-width: 432px) {
     nav {
-        width: 100vh; /* Makes the nav bar span the entire width of the page */
+        width: 100%; /* Makes the nav bar span the entire width of the page */
         padding: 5px 0;
     }
     .logo-audi {
