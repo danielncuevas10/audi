@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/audi/static/css/main.3431b9e3.css",
-    "main.js": "/audi/static/js/main.2b12ffdc.js",
+    "main.css": "/audi/static/css/main.111606c4.css",
+    "main.js": "/audi/static/js/main.7852de8e.js",
     "static/media/forrest.png": "/audi/static/media/forrest.500c2f2fea1b138ffafb.png",
     "static/media/about1.png": "/audi/static/media/about1.0bf7bebe072c6c3d8202.png",
     "static/media/rsq8.png": "/audi/static/media/rsq8.9be1be35f3688427570b.png",
@@ -17,12 +17,13 @@
     "static/media/roadtrip.png": "/audi/static/media/roadtrip.9b64e15da8a19859ded0.png",
     "static/media/racing.png": "/audi/static/media/racing.ce47fde2f8e2d5be0eec.png",
     "static/media/carplay.png": "/audi/static/media/carplay.9ad752ff99a4d30ddbca.png",
+    "static/media/rings.png": "/audi/static/media/rings.2b11ed790d4ad0f67ccd.png",
     "index.html": "/audi/index.html",
-    "main.3431b9e3.css.map": "/audi/static/css/main.3431b9e3.css.map",
-    "main.2b12ffdc.js.map": "/audi/static/js/main.2b12ffdc.js.map"
+    "main.111606c4.css.map": "/audi/static/css/main.111606c4.css.map",
+    "main.7852de8e.js.map": "/audi/static/js/main.7852de8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3431b9e3.css",
-    "static/js/main.2b12ffdc.js"
+    "static/css/main.111606c4.css",
+    "static/js/main.7852de8e.js"
   ]
 }
