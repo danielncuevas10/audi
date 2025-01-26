@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.3431b9e3.css",
-    "main.js": "/static/js/main.5e611171.js",
-    "static/media/forrest.png": "/static/media/forrest.500c2f2fea1b138ffafb.png",
-    "static/media/about1.png": "/static/media/about1.0bf7bebe072c6c3d8202.png",
-    "static/media/rsq8.png": "/static/media/rsq8.9be1be35f3688427570b.png",
-    "static/media/seats.png": "/static/media/seats.a28d3d78ca2992f0164c.png",
-    "static/media/a4.png": "/static/media/a4.8cf37f056b7cb2416ab5.png",
-    "static/media/landing.png": "/static/media/landing.162e762f9628f4b4bbbb.png",
-    "static/media/beach.png": "/static/media/beach.1331217d5dd0db0c669a.png",
-    "static/media/r8.png": "/static/media/r8.4b71cdc80e436bd3f86a.png",
-    "static/media/logo.png": "/static/media/logo.2e2c9843fe1df47e8d72.png",
-    "static/media/inside.png": "/static/media/inside.cf4d511d90872adf9a5c.png",
-    "static/media/about.png": "/static/media/about.bd7317fd948adce41b53.png",
-    "static/media/wheel.png": "/static/media/wheel.e896ee071d135f6ce660.png",
-    "static/media/roadtrip.png": "/static/media/roadtrip.9b64e15da8a19859ded0.png",
-    "static/media/racing.png": "/static/media/racing.ce47fde2f8e2d5be0eec.png",
-    "static/media/carplay.png": "/static/media/carplay.9ad752ff99a4d30ddbca.png",
-    "index.html": "/index.html",
-    "main.3431b9e3.css.map": "/static/css/main.3431b9e3.css.map",
-    "main.5e611171.js.map": "/static/js/main.5e611171.js.map"
+    "main.css": "/audi/static/css/main.3431b9e3.css",
+    "main.js": "/audi/static/js/main.2b12ffdc.js",
+    "static/media/forrest.png": "/audi/static/media/forrest.500c2f2fea1b138ffafb.png",
+    "static/media/about1.png": "/audi/static/media/about1.0bf7bebe072c6c3d8202.png",
+    "static/media/rsq8.png": "/audi/static/media/rsq8.9be1be35f3688427570b.png",
+    "static/media/seats.png": "/audi/static/media/seats.a28d3d78ca2992f0164c.png",
+    "static/media/a4.png": "/audi/static/media/a4.8cf37f056b7cb2416ab5.png",
+    "static/media/landing.png": "/audi/static/media/landing.162e762f9628f4b4bbbb.png",
+    "static/media/beach.png": "/audi/static/media/beach.1331217d5dd0db0c669a.png",
+    "static/media/r8.png": "/audi/static/media/r8.4b71cdc80e436bd3f86a.png",
+    "static/media/logo.png": "/audi/static/media/logo.2e2c9843fe1df47e8d72.png",
+    "static/media/inside.png": "/audi/static/media/inside.cf4d511d90872adf9a5c.png",
+    "static/media/about.png": "/audi/static/media/about.bd7317fd948adce41b53.png",
+    "static/media/wheel.png": "/audi/static/media/wheel.e896ee071d135f6ce660.png",
+    "static/media/roadtrip.png": "/audi/static/media/roadtrip.9b64e15da8a19859ded0.png",
+    "static/media/racing.png": "/audi/static/media/racing.ce47fde2f8e2d5be0eec.png",
+    "static/media/carplay.png": "/audi/static/media/carplay.9ad752ff99a4d30ddbca.png",
+    "index.html": "/audi/index.html",
+    "main.3431b9e3.css.map": "/audi/static/css/main.3431b9e3.css.map",
+    "main.2b12ffdc.js.map": "/audi/static/js/main.2b12ffdc.js.map"
   },
   "entrypoints": [
     "static/css/main.3431b9e3.css",
-    "static/js/main.5e611171.js"
+    "static/js/main.2b12ffdc.js"
   ]
 }
