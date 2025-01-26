@@ -232,7 +232,7 @@ body {
 @media only screen and (max-width: 432px) {
     .landing-img {
         width: 100%;
-        max-width: 25rem;
+        max-width: 27rem;
         height: 100%;
     }
     .landing-text {
