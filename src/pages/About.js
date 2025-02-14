@@ -10,12 +10,12 @@ import highway from '../assets/images/highway.png';
 const About = () => {
   return <div>
   
-            <div className="landing-audi">
+            <div className="landing-audi1">
                 <img src={etron} alt="The landing page car" className="landing-img" />
                 <h1>You have to live it To believe it</h1>
             </div>
             <div className="who-are">
-                <h1>Do you really know Audi?</h1>
+                <h1>Our roots define us</h1>
                 <div className="this-is-us">
                     <img src={engine} alt="audi-engine" />
                     <img src={interior} alt="audi-interiors" />

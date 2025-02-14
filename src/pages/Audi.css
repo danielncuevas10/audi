@@ -1,13 +1,13 @@
-.landing-audi {
+.landing-audi1 {
     position: relative; 
   }
 
-.landing-audi img {
+.landing-audi1 img {
     width: 100%;
     height: auto;
 }
 
-.landing-audi h1 {
+.landing-audi1 h1 {
     position: absolute; 
     top: 7%;
     left: 2.5%; 
@@ -110,25 +110,25 @@
   @media only screen and (max-width: 432px) {
 
 
-    .landing-audi {
+    .landing-audi1 {
       position: relative; 
       width: 100%; 
       height: 40vh; 
       overflow: hidden; 
     }
     
-    .landing-audi img {
+    .landing-audi1 img {
       width: 100%; 
       height: 100%; 
       object-fit: cover; 
     }
 
-    .landing-audi h1 {
-      font-size: 1rem;
+    .landing-audi1 h1 {
+      font-size: .8rem;
       margin-left: .5rem;
-      margin-top: 19rem;
+      margin-top: 17rem;
       width: 90%;
-      font-weight: 300;
+      font-weight: 400;
       left: 5%;
   }
     
@@ -144,6 +144,7 @@
 
     .who-are h1{
       font-size: 2rem;
+      font-weight: 300;
     }
 
     .mission, .vision {
