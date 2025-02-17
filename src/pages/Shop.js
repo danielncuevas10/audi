@@ -1,9 +1,9 @@
 import React from 'react';
 import './Shop.css';
 import about from '../assets/images/about.png';
-import video from '../assets/images/highway.mp4';
 import store from '../assets/images/store.png';
 import vancouver from '../assets/images/vancouver.png';
+import video from '../assets/images/highway2.mp4';
 
 
 const Shop = () => {

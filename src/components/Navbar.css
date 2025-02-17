@@ -50,7 +50,7 @@ ul #Search:hover {
 @media only screen and (max-width: 432px) {
     nav {
         width: 100%; /* Makes the nav bar span the entire width of the page */
-        padding: 5px 0;
+        
     }
     .logo-audi {
         width: auto;
