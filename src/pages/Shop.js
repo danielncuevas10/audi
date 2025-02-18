@@ -3,15 +3,15 @@ import './Shop.css';
 import about from '../assets/images/about.png';
 import store from '../assets/images/store.png';
 import vancouver from '../assets/images/vancouver.png';
-import video from '../assets/images/highway2.mp4';
 
+const videoUrl = "https://res.cloudinary.com/dtdp0qzmq/video/upload/v1739843083/b2ndf0xzobao5aemxkrp.mp4";
 
 const Shop = () => {
   return (
         <div className="shop-container">
           <div className="landing-audi">
             <video  className="video" autoPlay muted loop>
-            <source src={video} type="video/mp4"/>
+            <source src={videoUrl} type="video/mp4"/>
           </video>
             <div className="the-title">
               <p>"We don't sell cars, we sell dreams"</p>
