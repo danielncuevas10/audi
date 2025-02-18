@@ -3,6 +3,9 @@ import './Shop.css';
 import about from '../assets/images/about.png';
 import store from '../assets/images/store.png';
 import vancouver from '../assets/images/vancouver.png';
+import ny from '../assets/images/ny.png';
+import london from '../assets/images/london.png';
+import vienna from '../assets/images/vienna.png';
 
 const videoUrl = "https://res.cloudinary.com/dtdp0qzmq/video/upload/v1739843083/b2ndf0xzobao5aemxkrp.mp4";
 
@@ -40,7 +43,7 @@ const Shop = () => {
                       <div className="the-description">
                         <p className="the-text">Downtown Audi Center</p>
                         <button type="button">This is it</button>
-                        <img src={vancouver} className="the-picture" alt="this is the picture of the store"/>
+                        <img src={ny} className="the-picture" alt="this is the picture of the store"/>
                       </div> 
                     </div>
               </div> 
@@ -50,7 +53,7 @@ const Shop = () => {
                     <div className="the-description">
                       <p className="the-text">Downtown Audi Center</p>
                       <button type="button">This is it</button>
-                      <img src={vancouver} className="the-picture" alt="this is the picture of the store"/>
+                      <img src={london} className="the-picture" alt="this is the picture of the store"/>
                     </div> 
                   </div>
                 <div className="place vienna">
@@ -58,7 +61,7 @@ const Shop = () => {
                   <div className="the-description">
                     <p className="the-text">Downtown Audi Center</p>
                     <button type="button">This is it</button>
-                    <img src={vancouver} className="the-picture" alt="this is the picture of the store"/>
+                    <img src={vienna} className="the-picture" alt="this is the picture of the store"/>
                   </div> 
                 </div>
               </div>
