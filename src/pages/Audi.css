@@ -1,22 +1,24 @@
-.landing-audi1 {
+.landing-audi {
     position: relative; 
+    padding: 0px 0px 1px;
   }
 
-.landing-audi1 img {
+.landing-audi img {
     width: 100%;
     height: auto;
 }
 
-.landing-audi1 h1 {
+.landing-audi h1 {
     position: absolute; 
-    top: 7%;
-    left: 2.5%; 
+    top: 54%;
+    left: 12.5%; 
     color: white; 
     font-family: 'Roboto';
-    font-weight: 200;
-    font-size: 3rem;
+    font-weight: 400;
+    font-size: 1rem;
     letter-spacing: .3rem;
-    width: 30%;
+    width: 70%;
+    text-align: center;
   }
 
 .who-are {
@@ -47,11 +49,12 @@
 }
 
 .the-text {
-  text-align: center;
+  text-align: left;
   font-size: 1.5rem;
   font-style: italic;
   font-weight: 100;
   padding-bottom: 2rem;
+  color: black;
 }
 
 .mission, .vision {
@@ -110,25 +113,25 @@
   @media only screen and (max-width: 432px) {
 
 
-    .landing-audi1 {
-      position: relative; 
-      width: 100%; 
-      height: 40vh; 
+    .landing-audi {
+      width: 40px; 
+      height: 20vh; 
       overflow: hidden; 
+      padding: 0px 0px 1px;
     }
     
-    .landing-audi1 img {
+    .landing-audi img {
       width: 100%; 
       height: 100%; 
       object-fit: cover; 
     }
 
-    .landing-audi1 h1 {
-      font-size: .8rem;
+    .landing-audi h1 {
+      font-size: 1rem;
       margin-left: .5rem;
-      margin-top: 17rem;
+      margin-top: 1rem;
       width: 90%;
-      font-weight: 400;
+      font-weight: 300;
       left: 5%;
   }
     
@@ -144,7 +147,6 @@
 
     .who-are h1{
       font-size: 2rem;
-      font-weight: 300;
     }
 
     .mission, .vision {
