@@ -1,6 +1,5 @@
 import React from 'react';
 import './Shop.css';
-import about from '../assets/images/about.png';
 import store from '../assets/images/store.png';
 import vancouver from '../assets/images/vancouver.png';
 import ny from '../assets/images/ny.png';

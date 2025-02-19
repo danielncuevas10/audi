@@ -20,7 +20,7 @@ function Home() {
             <div className="landing-container">
                 <img src={landing} alt="The landing page car" className="landing-img" />
                 <div className="landing-text">
-                    <h1>New <span style={{ color: 'black' }}>AUDI Q5</span></h1>
+                    <h1>New <span style={{ color: 'black' }}>AUDI RQ5</span></h1>
                     <p>Experience the new e-tron family</p>
                         <div className="button-container">
                             <button className="btn">Discover e-tron</button>
